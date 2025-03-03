@@ -1,0 +1,14 @@
+{
+  "name": "java-glamour",
+  "engineVersion": "v0.16.2",
+  "sdk": {
+    "source": "java"
+  },
+  "dependencies": [
+    {
+      "name": "glow",
+      "source": "github.com/eunomie/toolbox/glow",
+      "pin": "28f8b535742c974d7823ea8b0aa872cdb7d28f91"
+    }
+  ]
+}
